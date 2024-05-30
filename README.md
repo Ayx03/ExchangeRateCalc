@@ -11,7 +11,7 @@
 
 [CNTIC 中信银行 **[第三方]**](https://www.kylc.com/bank/rmbfx/b-citic.html)
 
-[CMB 招商银行](https://m.cmbchina.com/forexcal.html)（手机版网页）
+[CMB 招商银行](https://m.cmbchina.com/forexcal.html)（手机版网页） [外汇实时汇率(PC)](https://fx.cmbchina.com/Hq/)
 
 [GCB 广发银行](https://www.cgbchina.com.cn/Channel/12121773) [手机版](https://m.cgbchina.com.cn/Channel/17691076) [人民币兑外汇牌价 Foreign Exchange Rates](https://www.cgbchina.com.cn/Info/12154717)
 
