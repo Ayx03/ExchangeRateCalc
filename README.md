@@ -7,7 +7,7 @@
 
 [ABC 农业银行外汇牌价](https://ewealth.abchina.com/ForeignExchange/ListPrice/)
 
-[CCB 建设银行](http://forex3.ccb.com/cn/forex/exchange-calculation.html)（不支持 HTTPS）
+[CCB 建设银行](http://forex3.ccb.com/cn/forex/exchange-calculation.html)
 
 [CNTIC 中信银行 **[第三方]**](https://www.kylc.com/bank/rmbfx/b-citic.html)
 
