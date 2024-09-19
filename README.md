@@ -1,5 +1,5 @@
 # ExchangeRateCalc
-各银行的汇率计算器或外汇牌价，按计算出的美元汇率排序（非实时更新）
+各银行的汇率计算器或外汇牌价，按计算出的美元汇率排序（排序非实时更新）
 
 [CIB 兴业银行人民币对外币牌价](https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery.do)
 
