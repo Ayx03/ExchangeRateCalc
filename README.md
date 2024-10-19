@@ -18,3 +18,5 @@
 [BOC 中国银行外汇牌价](https://www.boc.cn/sourcedb/whpj/)
 
 [BOCOM]
+
+[渤海银行外汇牌价](https://www.cbhb.com.cn/cbhbank/jrgj/whpj/index.shtml)
