@@ -9,7 +9,7 @@
 
 [CCB 建设银行](http://forex3.ccb.com/cn/forex/exchange-calculation.html)
 
-[CNTIC 中信银行 **[第三方]**](https://www.kylc.com/bank/rmbfx/b-citic.html)
+[CNTIC 中信银行 **[第三方-快易理财]**](https://www.kylc.com/bank/rmbfx/b-citic.html)
 
 [CMB 招商银行](https://m.cmbchina.com/forexcal.html)（手机版网页） [外汇实时汇率(PC)](https://fx.cmbchina.com/Hq/)
 
